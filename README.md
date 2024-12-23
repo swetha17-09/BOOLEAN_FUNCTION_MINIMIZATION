@@ -8,7 +8,7 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+**Equipment Required:** 
 
 Hardware – PCs, Cyclone II, USB flasher
 
